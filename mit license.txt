@@ -1,2 +1,3 @@
 mit license
 gpl license
+git switch -c update-readme
